@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571048799278",
+    "firebase_url": "https://skyvc-a11e3-default-rtdb.firebaseio.com",
+    "project_id": "skyvc-a11e3",
+    "storage_bucket": "skyvc-a11e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571048799278:android:b3170f5a9a8231b35503bf",
+        "android_client_info": {
+          "package_name": "com.example.skyvc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnsW-EBsAgsadWF1Nwo0sPYMRP-GfK30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
